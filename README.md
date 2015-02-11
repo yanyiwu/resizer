@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-go get github.com/aszxqw/resizer
+go get github.com/yanyiwu/resizer
 ```
 
 ```
